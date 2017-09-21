@@ -25,7 +25,7 @@ SECRET_KEY = '6-_-jf_+r64f6#y84r1cq$*^yk)*a3f&$3^&&#8g-ni%u@!*$&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'warrior.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'mrwarrior.pythonanywhere.com']
 
 
 # Application definition
@@ -120,4 +120,3 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
-
