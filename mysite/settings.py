@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 """
 Django settings for mysite project.
 
@@ -244,4 +243,3 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
->>>>>>> e43a1ed2c66f1307991e2b2a9094f8586529216f
